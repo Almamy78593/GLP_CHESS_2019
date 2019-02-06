@@ -1,0 +1,13 @@
+On a un champs qui nous informe au début du jeu qui doit jouer (j1)
+On a un booléen 'tour' et un champs Tour qui sera visible graphiquement
+De plus on gère les couleur avec un booléen 'color'
+color à true au début (donc j1 est rouge) et j1 commence
+donc 
+	'tour'= true
+	'color' = true
+	champs Tour = "joueur 1"
+
+	méthode gestionTour:
+		tour = false
+		color = false
+		Tour = "joueur2"
